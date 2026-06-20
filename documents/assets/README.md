@@ -1,8 +1,13 @@
 # Assets
 
-Place supporting images and other media files in this folder.
+This folder stores supporting files for ElivaPress documents.
 
-Examples:
-- PNG
-- JPG
-- SVG
+## Examples
+
+- Images
+- Diagrams
+- Logos
+- Icons
+- Other media assets
+
+Keep asset filenames descriptive and organized by topic when possible.

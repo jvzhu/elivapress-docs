@@ -3,9 +3,11 @@
 ```text
 elivapress-docs/
 ├─ README.md
+├─ CONTRIBUTING.md
 ├─ documents/
 │  ├─ source/
-│  │  └─ README.md
+│  │  ├─ README.md
+│  │  └─ template.md
 │  └─ assets/
 │     └─ README.md
 ├─ docs/
@@ -17,6 +19,9 @@ elivapress-docs/
 
 ### `README.md`
 Repository overview and basic usage instructions.
+
+### `CONTRIBUTING.md`
+Guidelines for contributing to the repository.
 
 ### `documents/source/`
 Stores original document files.
