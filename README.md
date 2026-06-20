@@ -1,5 +1,10 @@
 # ElivaPress Documents
 
+[![License](https://img.shields.io/github/license/jvzhu/elivapress-docs)](./LICENSE)
+[![Issues](https://img.shields.io/github/issues/jvzhu/elivapress-docs)](https://github.com/jvzhu/elivapress-docs/issues)
+[![Pull Requests](https://img.shields.io/github/issues-pr/jvzhu/elivapress-docs)](https://github.com/jvzhu/elivapress-docs/pulls)
+[![Last Commit](https://img.shields.io/github/last-commit/jvzhu/elivapress-docs)](https://github.com/jvzhu/elivapress-docs/commits/main)
+
 This repository stores ElivaPress-related documents, source files, and supporting assets.
 
 ## Structure
