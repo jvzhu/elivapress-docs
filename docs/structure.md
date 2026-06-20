@@ -4,6 +4,7 @@
 elivapress-docs/
 ├─ README.md
 ├─ CONTRIBUTING.md
+├─ CODE_OF_CONDUCT.md
 ├─ documents/
 │  ├─ source/
 │  │  ├─ README.md
@@ -23,8 +24,11 @@ Repository overview and basic usage instructions.
 ### `CONTRIBUTING.md`
 Guidelines for contributing to the repository.
 
+### `CODE_OF_CONDUCT.md`
+Community behavior expectations and reporting guidance.
+
 ### `documents/source/`
-Stores original document files.
+Stores original document files and templates.
 
 ### `documents/assets/`
 Stores supporting media and attachments used by documents.
