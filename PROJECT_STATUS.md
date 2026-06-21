@@ -97,7 +97,7 @@ June 30 ← 🚀 PUBLICATION DATE
 ## ⚠️ Critical Items
 
 1. **Project ID/ISBN Confirmation:** Awaiting Eliva confirmation of newly assigned Project ID and ISBN
-2. **Cover Image Selection:** Ensure selected cover image matches reconfirmed project details
+2. **Cover Image Selection:** Ensure cover image selection matches reconfirmed project details
 3. **Editor Communication:** Follow up with Irina/Julia if no response by June 25
 
 ---
