@@ -15,7 +15,7 @@
 - [x] **Complete 4-step confirmation process:**
   - [x] Step 1: Reconfirmed project selection in account
   - [x] Step 2: Confirmed project metadata details
-  - [x] Step 3: Confirmed cover-image selection details
+  - [x] Step 3: Reviewed cover-image selection details (final cover image selection still tracked in Cover Design phase)
   - [x] Step 4: Submitted final reconfirmation
 - [ ] **Receive new Project ID** — Confirm new ID assigned by Eliva
 - [ ] **Get new ISBN** — Confirm ISBN allocation
