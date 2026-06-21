@@ -1,0 +1,63 @@
+# 📊 MASTER TRACKING SPREADSHEET (CSV Format)
+
+**Download this as CSV and open in Excel/Sheets for tracking**
+
+```
+Date,Task,Project,Priority,Status,Deadline,Owner,Notes,Blocker
+2026-06-21,Follow up Project ID/ISBN,elivapress-docs,CRITICAL,Blocked,2026-06-23,Vivien,Awaiting Eliva response,CRITICAL
+2026-06-21,Submit cover preferences,elivapress-docs,HIGH,Not Started,2026-06-28,Vivien,Need to contact Irina,False
+2026-06-21,Final manuscript proofread,elivapress-docs,HIGH,In Progress,2026-06-29,Vivien,75% complete,False
+2026-06-21,ProductHunt asset prep,bug-free-enigma,HIGH,In Progress,2026-06-25,Vivien,90% complete,False
+2026-06-21,Security audit,bug-free-enigma,HIGH,Complete,2026-06-21,Vivien,All tests passing,False
+2026-06-21,bugatti-51a components,bugatti-type-51a,MEDIUM,In Progress,2026-06-30,Vivien,Framework initialized,False
+2026-06-21,book-project setup,book-project,MEDIUM,Not Started,2026-06-30,Vivien,Ready to start,False
+2026-06-22,Escalate if no Project ID,elivapress-docs,CRITICAL,Pending,2026-06-23,Vivien,If no response from Eliva,CRITICAL
+2026-06-25,Reconfirmation deadline,elivapress-docs,CRITICAL,Pending,2026-06-25,Vivien,NEW Project ID/ISBN due,CRITICAL
+2026-06-28,Cover design deadline,elivapress-docs,CRITICAL,Pending,2026-06-28,Vivien+Eliva,Final approval needed,False
+2026-06-29,Final approval deadline,elivapress-docs,CRITICAL,Pending,2026-06-29,Vivien,All materials finalized,False
+2026-06-30,PUBLICATION DAY,elivapress-docs,CRITICAL,Pending,2026-06-30,Eliva Press,GO LIVE,False
+2026-06-30,ProductHunt LAUNCH,bug-free-enigma,CRITICAL,Pending,2026-06-30,Vivien,12:01 AM PST,False
+```
+
+**Import into Google Sheets or Excel:**
+1. Copy the CSV data above
+2. Open Google Sheets/Excel
+3. Paste as "Paste special" → "CSV" format
+4. Add conditional formatting:
+   - CRITICAL = Red background
+   - HIGH = Orange background
+   - MEDIUM = Yellow background
+   - Complete = Green background
+
+---
+
+## 📈 PROGRESS TRACKING COLUMNS
+
+| Column | Values | Purpose |
+|--------|--------|----------|
+| Date | YYYY-MM-DD | When task recorded |
+| Task | Text | Specific action item |
+| Project | A/B/C/D/E | Which mode |
+| Priority | CRITICAL/HIGH/MEDIUM/LOW | Urgency level |
+| Status | Not Started/In Progress/Blocked/Complete | Current state |
+| Deadline | YYYY-MM-DD | Due date |
+| Owner | Name | Who's responsible |
+| Notes | Text | Additional context |
+| Blocker | TRUE/FALSE | Blocks other tasks |
+
+---
+
+## 🎯 CONDITIONAL FORMATTING RULES
+
+```
+If Status = "Blocked" → Red background + Bold
+If Status = "In Progress" → Yellow background
+If Status = "Complete" → Green background + Strikethrough
+If Priority = "CRITICAL" → Red text
+If Deadline < TODAY → Orange background (overdue)
+If Deadline = TODAY → Red background (due today)
+```
+
+---
+
+*Update daily during standups*
