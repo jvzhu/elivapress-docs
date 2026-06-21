@@ -9,7 +9,7 @@
 
 | Component | Status | Progress | Notes |
 |-----------|--------|----------|-------|
-| **Project Reconfirmation** | 🔄 In Progress | 50% | Awaiting Eliva confirmation after resubmission |
+| **Project Reconfirmation** | 🔄 In Progress | 85% | Steps 1–4 completed; awaiting new Project ID/ISBN confirmation from Eliva |
 | **Manuscript Finalization** | 🔄 In Progress | 75% | Ready for final review |
 | **Cover Design** | ⏳ Pending | 25% | Need to select image from Eliva database |
 | **ISBN & Project Number** | ⏳ Pending | 0% | Will be assigned upon reconfirmation |
@@ -21,15 +21,15 @@
 ## 📋 Task Breakdown
 
 ### Phase 1: Project Reconfirmation (Due: June 25)
-- [ ] Log into Eliva account
-- [ ] Reconfirm project: "THE VISUAL ETHNOGRAPHER'S DATA OTHER"
-- [ ] Complete all 4 confirmation steps
+- [x] Log into Eliva account
+- [x] Reconfirm project: "THE VISUAL ETHNOGRAPHER'S DATA OTHER"
+- [x] Complete all 4 confirmation steps
 - [ ] Receive new Project ID and ISBN
-- [ ] Confirm receipt from editor (Irina Lungu)
+- [x] Notify editor Irina Lungu and Julia R. to confirm new Project ID/ISBN
 
 **Status:** 🔄 In Progress  
 **Assigned to:** Vivien Jiaqian Zhu  
-**Last Action:** Reconfirmed on June 19, awaiting verification
+**Last Action:** Reconfirmation steps completed; confirmation request sent for new Project ID/ISBN
 
 ---
 
@@ -73,6 +73,7 @@
 
 | Date | From | To | Subject | Status |
 |------|------|-----|---------|--------|
+| June 21, 2026 | Vivien | Irina Lungu; Julia R. | Request confirmation of new Project ID and ISBN after 4-step reconfirmation | ⏳ Awaiting Response |
 | June 20, 20:03 | Julia R. (CS) | Vivien | Project reconfirmation instructions | ✅ Received |
 | June 20, 17:37 | Vivien | Julia R. | Requesting cover image history | ⏳ Awaiting Response |
 | June 19, 07:06 | Vivien | Irina | Project reconfirmed in account | ⏳ Under Review |
@@ -95,9 +96,9 @@ June 30 ← 🚀 PUBLICATION DATE
 
 ## ⚠️ Critical Items
 
-1. **Project Reconfirmation Status:** Need confirmation that all 4 steps are complete
-2. **Cover Image Selection:** Awaiting response on which image to use
-3. **Editor Communication:** Follow up with Irina if no response by June 25
+1. **Project ID/ISBN Confirmation:** Awaiting Eliva confirmation of newly assigned Project ID and ISBN
+2. **Cover Image Selection:** Ensure cover image selection matches reconfirmed project details
+3. **Editor Communication:** Follow up with Irina/Julia if no response by June 25
 
 ---
 
