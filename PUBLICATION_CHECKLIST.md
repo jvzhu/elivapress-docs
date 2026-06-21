@@ -9,16 +9,17 @@
 ## 🎯 Master Checklist
 
 ### Pre-Reconfirmation (Due: June 25)
-- [ ] **Verify account credentials** — Log into Eliva Press account successfully
+- [x] **Verify account credentials** — Logged into Eliva Press account successfully
 - [ ] **Review previous project notes** — Understand why Project ID 13362 was removed
 - [ ] **Gather all materials** — Collect manuscript, cover preferences, and metadata
-- [ ] **Complete 4-step confirmation process:**
-  - [ ] Step 1: ___________________
-  - [ ] Step 2: ___________________
-  - [ ] Step 3: ___________________
-  - [ ] Step 4: ___________________
+- [x] **Complete 4-step confirmation process:**
+  - [x] Step 1: Reconfirmed project selection in account
+  - [x] Step 2: Confirmed project metadata details
+  - [x] Step 3: Confirmed cover-image selection details
+  - [x] Step 4: Submitted final reconfirmation
 - [ ] **Receive new Project ID** — Confirm new ID assigned by Eliva
 - [ ] **Get new ISBN** — Confirm ISBN allocation
+- [x] **Notify editor/support for confirmation** — Requested Project ID/ISBN confirmation from Irina Lungu and Julia R.
 
 ---
 
